@@ -17,5 +17,5 @@ This project is a console-based application for managing cakes in a bakery. It a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ZouariOmar/Cake-App-Project.git
+   git clone https://github.com/ZouariOmar/Cakes_Management_App.git
 
